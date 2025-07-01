@@ -33,6 +33,8 @@
 ## 📈 GitHub Stats:
 ![Devansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevanshSharmapsit&show_icons=true&theme=react&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevanshSharmapsit&layout=compact&theme=react)
+![Commits in 2024](https://img.shields.io/badge/Commits%20in%202024-2024-brightgreen?style=flat-square&logo=github)
+
 
 ---
 
