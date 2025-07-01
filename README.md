@@ -4,8 +4,7 @@
 
 ## 🚀 About Me
 - 🎓 B.Tech CSE (Batch 2025)
-- 🔭 Currently working on: STRMLY Backend Challenge, FinacPlus Assignment, Test Management System
-- 🌱 Learning: Cloud Deployments, System Design
+- 🌱 Learning: System Design , DSA
 - 💼 Open to Backend / Full Stack Internships
 - 📫 Reach me at: sdevansh057@gmail.com
 
@@ -35,11 +34,6 @@
 
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=DevanshSharmapsit&theme=darkhub&no-frame=true)
-
----
-
-## 🔥 Contribution Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=DevanshSharmapsit&theme=react)](https://git.io/streak-stats)
 
 ---
 
