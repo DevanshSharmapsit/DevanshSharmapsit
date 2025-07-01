@@ -2,6 +2,10 @@
 
 > "Code. Learn. Repeat."
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=DevanshSharmapsit&label=Profile%20views&color=0e75b6&style=flat)
+
+
 ## 🚀 About Me
 - 🎓 B.Tech CSE (Batch 2025)
 - 🌱 Learning: System Design , DSA
